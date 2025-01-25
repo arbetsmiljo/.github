@@ -133,5 +133,6 @@ dist
 .pnp.*
 
 # Meta repositories
+/2025/
 /dotgithub/
 /year/

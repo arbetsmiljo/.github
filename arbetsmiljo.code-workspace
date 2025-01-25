@@ -1,9 +1,15 @@
 {
   "folders": [
     {
+      "name": "2025",
+      "path": "2025"
+    },
+    {
+      "name": "dotgithub",
       "path": "dotgithub"
     },
     {
+      "name": "year",
       "path": "year"
     }
   ],

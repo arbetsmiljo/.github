@@ -1,5 +1,6 @@
 {
   "projects": {
+    "2025": "git@github.com:arbetsmiljo/2025.git",
     "dotgithub": "git@github.com:arbetsmiljo/.github.git",
     "year": "git@github.com:arbetsmiljo/year.git"
   }
