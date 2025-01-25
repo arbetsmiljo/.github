@@ -13,6 +13,10 @@
       "path": "dotgithub"
     },
     {
+      "name": "schema",
+      "path": "schema"
+    },
+    {
       "name": "year",
       "path": "year"
     }
