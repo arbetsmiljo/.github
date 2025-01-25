@@ -1,3 +1,5 @@
 {
-  "projects": {}
+  "projects": {
+    "dotgithub": "git@github.com:arbetsmiljo/.github.git"
+  }
 }
