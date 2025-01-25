@@ -1,0 +1,11 @@
+{
+  "author": "Henry Catalini Smith <henry@catalinismith.com>",
+  "description": "Template workspace repository",
+  "devDependencies": {
+    "meta": "^2.2.25"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@arbetsmarknad/workspace",
+  "version": "1.0.0"
+}
