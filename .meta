@@ -3,7 +3,6 @@
     "2025": "git@github.com:arbetsmiljo/2025.git",
     "diarium": "git@github.com:arbetsmiljo/diarium.git",
     "dotgithub": "git@github.com:arbetsmiljo/.github.git",
-    "schema": "git@github.com:arbetsmiljo/schema.git",
     "year": "git@github.com:arbetsmiljo/year.git"
   }
 }
