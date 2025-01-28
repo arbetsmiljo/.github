@@ -1,5 +1,6 @@
 {
   "projects": {
+    "2023": "git@github.com:arbetsmiljo/2023.git",
     "2025": "git@github.com:arbetsmiljo/2025.git",
     "diarium": "git@github.com:arbetsmiljo/diarium.git",
     "dotgithub": "git@github.com:arbetsmiljo/.github.git",
