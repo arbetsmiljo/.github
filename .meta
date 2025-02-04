@@ -3,9 +3,10 @@
     "2023": "git@github.com:arbetsmiljo/2023.git",
     "2024": "git@github.com:arbetsmiljo/2024.git",
     "2025": "git@github.com:arbetsmiljo/2025.git",
+    "arbetsmiljo.github.io": "git@github.com:arbetsmiljo/arbetsmiljo.github.io.git",
+    "autoindex": "git@github.com:arbetsmiljo/autoindex.git",
     "diarium": "git@github.com:arbetsmiljo/diarium.git",
     "dotgithub": "git@github.com:arbetsmiljo/.github.git",
-    "year": "git@github.com:arbetsmiljo/year.git",
-    "autoindex": "git@github.com:arbetsmiljo/autoindex.git"
+    "year": "git@github.com:arbetsmiljo/year.git"
   }
 }
