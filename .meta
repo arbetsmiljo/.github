@@ -8,6 +8,7 @@
     "autoindex": "git@github.com:arbetsmiljo/autoindex.git",
     "diarium": "git@github.com:arbetsmiljo/diarium.git",
     "dotgithub": "git@github.com:arbetsmiljo/.github.git",
-    "year": "git@github.com:arbetsmiljo/year.git"
+    "year": "git@github.com:arbetsmiljo/year.git",
+    "ingest": "git@github.com:arbetsmiljo/ingest.git"
   }
 }
