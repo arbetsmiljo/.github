@@ -133,6 +133,7 @@ dist
 .pnp.*
 
 # Meta repositories
+/2021/
 /2022/
 /2023/
 /2024/
